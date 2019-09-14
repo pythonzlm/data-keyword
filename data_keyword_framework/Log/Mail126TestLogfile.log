@@ -1,0 +1,1234 @@
+2019-04-28 19:28:09 TestSendMainAndCrateContacts.py[line:33] INFO --执行测试用例'登录163邮箱'--
+2019-04-28 19:28:09 TestSendMainAndCrateContacts.py[line:53] INFO ******调用关键字驱动******
+2019-04-28 19:28:09 TestSendMainAndCrateContacts.py[line:57] INFO 测试用例共'14'步
+2019-04-28 19:28:09 TestSendMainAndCrateContacts.py[line:119] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 61, in TestSendMailAndCreateContacts
+    stepRow = excelObj.getRowsNumber(caseStepObj,index)
+TypeError: getRowsNumber() takes exactly 2 arguments (3 given)
+
+2019-04-28 19:59:49 TestSendMainAndCrateContacts.py[line:33] INFO --执行测试用例'登录163邮箱'--
+2019-04-28 19:59:49 TestSendMainAndCrateContacts.py[line:53] INFO ******调用关键字驱动******
+2019-04-28 19:59:49 TestSendMainAndCrateContacts.py[line:57] INFO 测试用例共'14'步
+2019-04-28 20:00:03 TestSendMainAndCrateContacts.py[line:103] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-28 20:00:04 TestSendMainAndCrateContacts.py[line:103] INFO 执行步骤'最大化窗口'成功
+2019-04-28 20:00:09 TestSendMainAndCrateContacts.py[line:103] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-28 20:02:29 TestSendMainAndCrateContacts.py[line:103] INFO 执行步骤'等待'成功
+2019-04-28 20:02:30 TestSendMainAndCrateContacts.py[line:103] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-28 20:02:30 TestSendMainAndCrateContacts.py[line:110] INFO 用例'登录163邮箱'执行失败
+2019-04-28 20:02:30 TestSendMainAndCrateContacts.py[line:33] INFO --执行测试用例'添加联系人'--
+2019-04-28 20:02:30 TestSendMainAndCrateContacts.py[line:35] INFO ******调用数据驱动******
+2019-04-28 20:02:30 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-28 20:02:30 TestSendMainAndCrateContacts.py[line:119] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 44, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 92, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-28 20:06:59 TestSendMainAndCrateContacts.py[line:33] INFO --执行测试用例'登录163邮箱'--
+2019-04-28 20:06:59 TestSendMainAndCrateContacts.py[line:53] INFO ******调用关键字驱动******
+2019-04-28 20:06:59 TestSendMainAndCrateContacts.py[line:57] INFO 测试用例共'14'步
+2019-04-28 20:07:10 TestSendMainAndCrateContacts.py[line:103] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-28 20:07:11 TestSendMainAndCrateContacts.py[line:103] INFO 执行步骤'最大化窗口'成功
+2019-04-28 20:07:16 TestSendMainAndCrateContacts.py[line:103] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-28 20:09:29 TestSendMainAndCrateContacts.py[line:103] INFO 执行步骤'等待'成功
+2019-04-28 20:09:29 TestSendMainAndCrateContacts.py[line:103] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-28 20:09:29 TestSendMainAndCrateContacts.py[line:110] INFO 用例'登录163邮箱'执行失败
+2019-04-28 20:09:29 TestSendMainAndCrateContacts.py[line:33] INFO --执行测试用例'添加联系人'--
+2019-04-28 20:09:29 TestSendMainAndCrateContacts.py[line:35] INFO ******调用数据驱动******
+2019-04-28 20:09:29 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-28 20:09:29 TestSendMainAndCrateContacts.py[line:119] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 44, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 93, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-28 20:43:45 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-28 20:43:45 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-28 20:43:45 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-28 20:43:57 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-28 20:43:57 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'最大化窗口'成功
+2019-04-28 20:44:03 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-28 20:46:12 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'等待'成功
+2019-04-28 20:46:12 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-28 20:46:13 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行失败
+2019-04-28 20:46:13 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-28 20:46:13 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-28 20:46:13 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-28 20:46:13 TestSendMainAndCrateContacts.py[line:120] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 93, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-28 20:57:17 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-28 20:57:17 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-28 20:57:17 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-28 20:57:27 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-28 20:57:27 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'最大化窗口'成功
+2019-04-28 20:57:33 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-28 20:57:33 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-28 20:59:42 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'等待'成功
+2019-04-28 20:59:43 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-28 20:59:43 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行失败
+2019-04-28 20:59:43 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-28 20:59:43 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-28 20:59:43 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-28 20:59:43 TestSendMainAndCrateContacts.py[line:120] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 93, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-28 21:02:31 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-28 21:02:31 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-28 21:02:31 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-28 21:02:43 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-28 21:02:43 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'最大化窗口'成功
+2019-04-28 21:02:49 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-28 21:02:49 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-28 21:04:58 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'等待'成功
+2019-04-28 21:04:58 TestSendMainAndCrateContacts.py[line:104] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-28 21:04:59 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行失败
+2019-04-28 21:04:59 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-28 21:04:59 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-28 21:04:59 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-28 21:04:59 TestSendMainAndCrateContacts.py[line:120] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 93, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-28 21:30:24 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-28 21:30:24 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-28 21:30:24 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-28 21:30:34 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-28 21:30:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-28 21:30:40 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-28 21:30:40 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-28 21:32:50 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-28 21:32:50 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-28 21:32:51 TestSendMainAndCrateContacts.py[line:114] INFO 用例'登录163邮箱'执行失败
+2019-04-28 21:32:51 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-28 21:32:51 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-28 21:32:51 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-28 21:32:51 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 93, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-28 22:10:43 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-28 22:10:43 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-28 22:10:43 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-28 22:10:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-28 22:10:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-28 22:10:56 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-28 22:11:02 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-28 22:13:11 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-28 22:13:11 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-28 22:13:11 TestSendMainAndCrateContacts.py[line:114] INFO 用例'登录163邮箱'执行失败
+2019-04-28 22:13:11 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-28 22:13:11 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-28 22:13:11 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-28 22:13:11 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 93, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-28 22:55:55 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-28 22:55:55 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-28 22:55:55 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-28 22:56:02 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-28 22:56:13 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-28 22:56:13 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-28 22:56:18 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-28 22:56:18 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-28 22:57:14 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 102, in TestSendMailAndCreateContacts
+    capturePic = capture_screen()
+  File "E:\test\untitled1\data_keyword_framework\Action\PageAction.py", line 169, in capture_screen
+    raise e
+NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=51.0.2704.63)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.3 x86_64)
+
+
+2019-04-28 22:57:26 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-28 22:57:26 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-28 22:57:26 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-28 22:57:31 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-28 22:57:37 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-28 22:57:38 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-28 22:57:43 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-28 22:57:43 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-28 22:59:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-28 22:59:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-28 22:59:52 TestSendMainAndCrateContacts.py[line:114] INFO 用例'登录163邮箱'执行失败
+2019-04-28 22:59:52 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-28 22:59:52 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-28 22:59:52 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-28 22:59:53 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 93, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-29 00:42:52 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 00:42:52 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 00:42:52 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 00:42:57 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 00:43:00 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 00:43:01 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 00:43:06 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 00:43:10 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 00:43:10 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 00:43:10 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 00:43:11 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 00:43:11 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 00:43:11 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 00:43:16 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 00:43:22 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 00:43:22 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 00:43:22 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 00:43:22 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 00:43:22 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 00:43:22 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 00:43:22 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 93, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-29 00:45:38 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 00:45:38 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 00:45:38 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 00:45:44 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 00:45:56 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 00:45:56 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 00:46:01 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 00:46:05 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 00:46:06 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 00:46:06 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 00:46:06 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 00:46:06 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 00:46:06 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 00:46:12 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 00:46:12 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 00:46:12 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 00:46:13 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 00:46:13 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 00:46:13 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 00:46:13 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 00:46:13 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 93, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-29 00:57:19 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 00:57:19 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 00:57:19 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 00:57:23 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 00:57:27 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 00:57:27 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 00:57:32 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 00:57:32 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 00:57:32 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 00:57:33 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 00:57:33 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 00:57:33 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 00:57:33 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 00:57:38 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 00:57:42 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 00:57:43 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 00:57:43 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 00:57:43 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 00:57:43 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 00:57:43 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 00:57:43 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 96, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-29 10:07:32 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 10:07:32 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 10:07:32 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 10:07:40 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 10:07:45 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 10:07:45 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 10:07:50 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 10:07:50 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 10:07:50 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 10:07:50 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 10:07:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 10:07:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 10:07:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 10:07:56 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 10:07:56 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 10:07:56 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 10:07:56 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 10:07:56 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 10:07:56 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 10:07:56 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 10:07:56 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 96, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-29 10:32:52 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 10:32:52 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 10:32:52 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 10:33:05 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 10:33:18 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 10:33:19 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 10:33:24 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 10:33:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 10:33:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 10:33:30 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 10:33:30 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 10:33:30 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 10:33:30 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 10:33:36 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 10:33:36 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 10:33:40 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 10:33:40 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 10:33:40 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 10:33:40 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 10:33:40 CreateContacts.py[line:27] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 10:33:41 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 96, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-29 10:36:21 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 10:36:21 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 10:36:21 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 10:36:26 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 10:36:31 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 10:36:31 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 10:36:36 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 10:36:36 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 10:36:36 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 10:36:37 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 10:36:37 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 10:36:37 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 10:36:37 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 10:36:42 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 10:36:43 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 10:36:43 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 10:36:43 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 10:36:43 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 10:36:43 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 10:36:43 CreateContacts.py[line:28] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 10:36:44 CreateContacts.py[line:79] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 10:36:46 CreateContacts.py[line:79] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 10:36:46 CreateContacts.py[line:79] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 10:36:47 CreateContacts.py[line:79] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 10:36:47 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 97, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-29 10:50:12 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 10:50:12 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 10:50:12 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 10:50:17 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 10:50:23 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 10:50:23 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 10:50:28 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 10:50:28 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 10:50:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 10:50:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 10:50:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 10:50:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 10:50:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 10:50:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 10:50:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 10:50:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 10:50:35 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 10:50:35 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 10:50:35 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 10:50:35 CreateContacts.py[line:28] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 10:50:35 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 10:50:38 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 10:50:38 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 10:50:38 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 10:50:38 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 98, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-29 11:00:07 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 11:00:07 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 11:00:07 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 11:00:13 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 11:00:17 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 11:00:17 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 11:00:22 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 11:00:23 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 11:00:23 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 11:00:23 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 11:00:23 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 11:00:23 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 11:00:24 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 11:00:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 11:00:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 11:00:31 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 11:00:32 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 11:00:32 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 11:00:32 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 11:00:32 CreateContacts.py[line:28] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 11:00:35 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 11:00:35 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 11:00:35 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 11:00:36 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 11:00:36 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 98, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-29 11:11:23 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 11:11:23 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 11:11:23 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 11:11:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 11:11:33 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 11:11:33 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 11:11:39 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 11:11:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 11:11:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 11:11:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 11:11:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 11:11:42 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 11:11:42 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 11:11:47 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 11:11:47 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 11:11:48 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 11:11:48 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 11:11:48 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 11:11:48 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 11:11:48 CreateContacts.py[line:28] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 11:11:48 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 11:11:49 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 11:11:49 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 11:11:49 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 11:11:49 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 45, in TestSendMailAndCreateContacts
+    result = dataDriverFun(dataSheetObj,stepSheetObj)
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\CreateContacts.py", line 98, in dataDriverFun
+    raise e
+TypeError: cell() got an unexpected keyword argument 'coordinate'
+
+2019-04-29 14:20:19 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 14:20:19 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 14:20:19 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 14:20:28 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 14:20:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 14:20:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 14:20:46 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 14:20:52 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 14:20:53 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 14:20:53 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 14:20:53 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 14:20:54 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 14:20:54 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 14:20:59 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 14:21:01 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 14:21:03 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 14:21:04 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 14:21:04 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 14:21:04 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 14:21:04 CreateContacts.py[line:28] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 14:21:04 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:21:07 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:21:08 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:21:08 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:21:09 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:21:09 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:21:09 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:21:09 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:21:09 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:21:10 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:21:12 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:21:12 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:21:12 CreateContacts.py[line:28] INFO 开始添加联系人'wcx@qq.com'
+2019-04-29 14:21:12 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:21:12 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:21:12 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:21:12 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:21:12 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:21:12 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:21:13 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:21:13 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:21:13 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:21:13 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:21:15 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:21:15 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:21:15 CreateContacts.py[line:28] INFO 开始添加联系人'lucy@126.com'
+2019-04-29 14:21:15 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:21:15 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:21:15 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:21:15 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:21:15 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:21:16 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:21:16 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:21:16 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:21:16 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:21:16 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:21:18 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:21:18 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:21:19 CreateContacts.py[line:28] INFO 开始添加联系人'lily@qq.com'
+2019-04-29 14:21:19 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:21:19 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:21:19 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:21:19 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:21:19 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:21:19 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:21:19 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:21:19 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:21:20 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:21:20 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:21:22 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:21:22 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:21:22 CreateContacts.py[line:28] INFO 开始添加联系人'amy@qq.com'
+2019-04-29 14:21:22 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:21:22 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:21:22 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:21:22 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:21:22 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:21:22 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:21:22 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:21:23 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:21:23 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:21:23 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:21:25 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:21:25 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:21:25 CreateContacts.py[line:28] INFO 开始添加联系人'anne@126.com'
+2019-04-29 14:21:25 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:21:25 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:21:25 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:21:25 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:21:25 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:21:26 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:21:26 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:21:26 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:21:26 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:21:26 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:21:28 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:21:28 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:21:28 TestSendMainAndCrateContacts.py[line:51] INFO 用例'添加联系人'执行成功
+2019-04-29 14:21:28 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'发送带附件的邮件'--
+2019-04-29 14:21:28 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 14:21:28 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'17'步
+2019-04-29 14:21:28 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击“首页”链接，进入邮箱首页'成功
+2019-04-29 14:21:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'判断“写信”按钮是否在页面上可见'成功
+2019-04-29 14:21:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击“写信”按钮'成功
+2019-04-29 14:21:30 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入收件人地址'成功
+2019-04-29 14:21:30 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入邮件主题'成功
+2019-04-29 14:21:30 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击“上传附件”链接'成功
+2019-04-29 14:21:32 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入附件所在绝对路径'成功
+2019-04-29 14:21:32 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'模拟键盘回车键'成功
+2019-04-29 14:22:04 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'如果邮件正文的frame框是否可见，切换进该frame中'成功
+2019-04-29 14:22:04 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入邮件正文'成功
+2019-04-29 14:22:04 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'退出邮件正文的frame'成功
+2019-04-29 14:22:04 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击邮件发送按钮'成功
+2019-04-29 14:22:07 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待邮件发送成功，返回结果'成功
+2019-04-29 14:22:14 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'关闭浏览器'成功
+2019-04-29 14:22:14 TestSendMainAndCrateContacts.py[line:114] INFO 用例'发送带附件的邮件'执行失败
+2019-04-29 14:22:14 TestSendMainAndCrateContacts.py[line:121] INFO 共3条用例，3条需要被执行，成功执行1条
+2019-04-29 14:26:15 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 14:26:15 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 14:26:15 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 14:26:20 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 14:26:28 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 14:26:28 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 14:26:33 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 14:26:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 14:26:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 14:26:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 14:26:36 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 14:26:36 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 14:26:36 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 14:26:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 14:26:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 14:26:42 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 14:26:42 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 14:26:42 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 14:26:42 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 14:26:42 CreateContacts.py[line:28] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 14:26:42 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:26:42 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:26:44 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:26:44 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:26:45 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:26:45 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:26:45 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:26:45 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:26:46 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:26:46 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:26:48 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:26:48 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:26:48 CreateContacts.py[line:28] INFO 开始添加联系人'wcx@qq.com'
+2019-04-29 14:26:48 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:26:48 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:26:48 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:26:48 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:26:48 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:26:48 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:26:48 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:26:49 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:26:49 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:26:49 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:26:51 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:26:51 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:26:51 CreateContacts.py[line:28] INFO 开始添加联系人'lucy@126.com'
+2019-04-29 14:26:51 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:26:51 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:26:51 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:26:51 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:26:52 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:26:52 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:26:52 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:26:52 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:26:52 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:26:52 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:26:54 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:26:54 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:26:54 CreateContacts.py[line:28] INFO 开始添加联系人'lily@qq.com'
+2019-04-29 14:26:54 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:26:54 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:26:54 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:26:55 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:26:55 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:26:55 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:26:55 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:26:55 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:26:55 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:26:55 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:26:57 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:26:57 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:26:57 CreateContacts.py[line:28] INFO 开始添加联系人'amy@qq.com'
+2019-04-29 14:26:57 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:26:58 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:26:58 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:26:58 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:26:58 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:26:58 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:26:58 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:26:58 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:26:58 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:26:58 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:27:00 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:27:01 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:27:01 CreateContacts.py[line:28] INFO 开始添加联系人'anne@126.com'
+2019-04-29 14:27:01 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:27:01 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:27:01 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:27:01 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:27:01 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:27:01 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:27:01 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:27:01 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:27:02 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:27:02 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:27:04 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:27:04 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:27:04 TestSendMainAndCrateContacts.py[line:51] INFO 用例'添加联系人'执行成功
+2019-04-29 14:27:04 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'发送带附件的邮件'--
+2019-04-29 14:27:04 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 14:27:04 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'17'步
+2019-04-29 14:27:05 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'判断“写信”按钮是否在页面上可见'成功
+2019-04-29 14:28:15 TestSendMainAndCrateContacts.py[line:123] DEBUG 程序本身发生异常
+Traceback (most recent call last):
+  File "E:\test\untitled1\data_keyword_framework\TestScripts\TestSendMainAndCrateContacts.py", line 102, in TestSendMailAndCreateContacts
+    capturePic = capture_screen()
+  File "E:\test\untitled1\data_keyword_framework\Action\PageAction.py", line 170, in capture_screen
+    raise e
+WebDriverException: Message: chrome not reachable
+  (Session info: chrome=51.0.2704.63)
+  (Driver info: chromedriver=2.9.248315,platform=Windows NT 6.3 x86_64)
+
+
+2019-04-29 14:33:12 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 14:33:12 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 14:33:12 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 14:33:18 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 14:33:22 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 14:33:22 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 14:33:27 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 14:33:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 14:33:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 14:33:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 14:33:29 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 14:33:30 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 14:33:30 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 14:33:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 14:33:36 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 14:33:36 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 14:33:36 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 14:33:36 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 14:33:36 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 14:33:36 CreateContacts.py[line:28] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 14:33:36 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:33:37 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:33:37 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:33:38 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:33:38 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:33:38 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:33:38 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:33:39 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:33:39 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:33:40 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:33:42 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:33:42 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:33:42 CreateContacts.py[line:28] INFO 开始添加联系人'wcx@qq.com'
+2019-04-29 14:33:42 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:33:42 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:33:42 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:33:42 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:33:43 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:33:43 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:33:43 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:33:43 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:33:43 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:33:43 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:33:45 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:33:45 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:33:46 CreateContacts.py[line:28] INFO 开始添加联系人'lucy@126.com'
+2019-04-29 14:33:46 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:33:46 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:33:46 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:33:46 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:33:46 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:33:46 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:33:46 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:33:46 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:33:47 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:33:47 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:33:49 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:33:49 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:33:49 CreateContacts.py[line:28] INFO 开始添加联系人'lily@qq.com'
+2019-04-29 14:33:49 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:33:49 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:33:49 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:33:49 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:33:49 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:33:49 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:33:49 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:33:50 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:33:50 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:33:50 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:33:52 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:33:52 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:33:52 CreateContacts.py[line:28] INFO 开始添加联系人'amy@qq.com'
+2019-04-29 14:33:52 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:33:52 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:33:52 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:33:52 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:33:52 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:33:53 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:33:53 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:33:53 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:33:53 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:33:53 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:33:55 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:33:55 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:33:55 CreateContacts.py[line:28] INFO 开始添加联系人'anne@126.com'
+2019-04-29 14:33:55 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 14:33:55 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 14:33:55 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 14:33:55 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 14:33:56 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 14:33:56 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 14:33:56 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 14:33:56 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 14:33:56 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 14:33:56 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 14:33:58 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 14:33:58 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 14:33:58 TestSendMainAndCrateContacts.py[line:51] INFO 用例'添加联系人'执行成功
+2019-04-29 14:33:58 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'发送带附件的邮件'--
+2019-04-29 14:33:58 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 14:33:58 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'17'步
+2019-04-29 14:33:58 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击“首页”链接，进入邮箱首页'成功
+2019-04-29 14:33:59 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'判断“写信”按钮是否在页面上可见'成功
+2019-04-29 14:33:59 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击“写信”按钮'成功
+2019-04-29 14:34:00 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入收件人地址'成功
+2019-04-29 14:34:00 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入邮件主题'成功
+2019-04-29 14:34:00 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击“上传附件”链接'成功
+2019-04-29 14:34:03 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入附件所在绝对路径'成功
+2019-04-29 14:34:03 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'模拟键盘回车键'成功
+2019-04-29 14:34:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'如果邮件正文的frame框是否可见，切换进该frame中'成功
+2019-04-29 14:34:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入邮件正文'成功
+2019-04-29 14:34:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'退出邮件正文的frame'成功
+2019-04-29 14:34:35 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击邮件发送按钮'成功
+2019-04-29 14:34:39 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待邮件发送成功，返回结果'成功
+2019-04-29 14:34:39 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言页面源码中是否出现“发送成功”关键内容'成功
+2019-04-29 14:34:43 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'关闭浏览器'成功
+2019-04-29 14:34:43 TestSendMainAndCrateContacts.py[line:114] INFO 用例'发送带附件的邮件'执行失败
+2019-04-29 14:34:43 TestSendMainAndCrateContacts.py[line:121] INFO 共3条用例，3条需要被执行，成功执行1条
+2019-04-29 15:29:16 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'登录163邮箱'--
+2019-04-29 15:29:16 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 15:29:16 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'14'步
+2019-04-29 15:29:40 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'打开浏览器'成功
+2019-04-29 15:29:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'访问被测试网址http://www.163.com'成功
+2019-04-29 15:29:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'最大化窗口'成功
+2019-04-29 15:29:56 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待163邮箱登录主页加载完成'成功
+2019-04-29 15:29:57 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言当前活动页面源码中是否包含“163网易免费邮--中文邮箱第一品牌”'成功
+2019-04-29 15:30:03 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待id属性值为x-URS-iframe的frame框的出现，然后切换进入该frame框中'成功
+2019-04-29 15:30:03 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'清除用户名输入框中的缓存用户性'成功
+2019-04-29 15:30:04 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录用户名'成功
+2019-04-29 15:30:04 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入登录密码'成功
+2019-04-29 15:30:04 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击登录按钮'成功
+2019-04-29 15:30:09 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待'成功
+2019-04-29 15:30:12 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'切回默认会话窗体'成功
+2019-04-29 15:30:14 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言登录成功后的页面标题是否包含“网易邮箱6.0版”关键内容'成功
+2019-04-29 15:30:14 TestSendMainAndCrateContacts.py[line:111] INFO 用例'登录163邮箱'执行通过
+2019-04-29 15:30:14 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'添加联系人'--
+2019-04-29 15:30:14 TestSendMainAndCrateContacts.py[line:36] INFO ******调用数据驱动******
+2019-04-29 15:30:14 CreateContacts.py[line:28] INFO 开始添加联系人'sr@qq.com'
+2019-04-29 15:30:15 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 15:30:19 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 15:30:19 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 15:30:19 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 15:30:20 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 15:30:20 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 15:30:20 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 15:30:21 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 15:30:21 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 15:30:21 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 15:30:23 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 15:30:23 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 15:30:23 CreateContacts.py[line:28] INFO 开始添加联系人'wcx@qq.com'
+2019-04-29 15:30:23 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 15:30:23 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 15:30:23 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 15:30:23 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 15:30:23 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 15:30:24 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 15:30:24 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 15:30:24 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 15:30:24 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 15:30:24 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 15:30:26 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 15:30:26 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 15:30:27 CreateContacts.py[line:28] INFO 开始添加联系人'lucy@126.com'
+2019-04-29 15:30:27 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 15:30:27 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 15:30:27 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 15:30:27 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 15:30:27 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 15:30:27 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 15:30:27 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 15:30:27 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 15:30:28 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 15:30:28 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 15:30:30 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 15:30:30 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 15:30:30 CreateContacts.py[line:28] INFO 开始添加联系人'lily@qq.com'
+2019-04-29 15:30:30 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 15:30:30 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 15:30:30 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 15:30:30 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 15:30:30 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 15:30:30 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 15:30:31 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 15:30:31 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 15:30:31 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 15:30:31 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 15:30:33 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 15:30:33 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 15:30:33 CreateContacts.py[line:28] INFO 开始添加联系人'amy@qq.com'
+2019-04-29 15:30:33 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 15:30:33 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 15:30:33 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 15:30:33 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 15:30:33 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 15:30:34 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 15:30:34 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 15:30:34 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 15:30:34 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 15:30:34 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 15:30:36 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 15:30:36 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 15:30:36 CreateContacts.py[line:28] INFO 开始添加联系人'anne@126.com'
+2019-04-29 15:30:36 CreateContacts.py[line:80] INFO 执行步骤‘点击“通讯录”链接，进入通讯录页面’发生异常
+
+2019-04-29 15:30:36 CreateContacts.py[line:80] INFO 执行步骤‘显示等待“新建联系人”按钮在页面上可见’发生异常
+
+2019-04-29 15:30:36 CreateContacts.py[line:80] INFO 执行步骤‘点击“新建联系人”按钮’发生异常
+
+2019-04-29 15:30:36 CreateContacts.py[line:80] INFO 执行步骤‘显示等待输入联系人姓名框是否在页面上可见’发生异常
+
+2019-04-29 15:30:37 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人姓名’发生异常
+
+2019-04-29 15:30:37 CreateContacts.py[line:80] INFO 执行步骤‘输入电子邮箱’发生异常
+
+2019-04-29 15:30:37 CreateContacts.py[line:80] INFO 执行步骤‘设为星标联系人’发生异常
+
+2019-04-29 15:30:37 CreateContacts.py[line:80] INFO 执行步骤‘输入手机号’发生异常
+
+2019-04-29 15:30:37 CreateContacts.py[line:80] INFO 执行步骤‘输入联系人备注信息’发生异常
+
+2019-04-29 15:30:38 CreateContacts.py[line:80] INFO 执行步骤‘点击“确认”按钮保存新联系人’发生异常
+
+2019-04-29 15:30:40 CreateContacts.py[line:80] INFO 执行步骤‘等待2秒’发生异常
+
+2019-04-29 15:30:40 CreateContacts.py[line:80] INFO 执行步骤‘断言联系人是否成功添加’发生异常
+
+2019-04-29 15:30:40 TestSendMainAndCrateContacts.py[line:51] INFO 用例'添加联系人'执行成功
+2019-04-29 15:30:40 TestSendMainAndCrateContacts.py[line:34] INFO --执行测试用例'发送带附件的邮件'--
+2019-04-29 15:30:40 TestSendMainAndCrateContacts.py[line:54] INFO ******调用关键字驱动******
+2019-04-29 15:30:40 TestSendMainAndCrateContacts.py[line:58] INFO 测试用例共'17'步
+2019-04-29 15:30:40 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击“首页”链接，进入邮箱首页'成功
+2019-04-29 15:30:40 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'判断“写信”按钮是否在页面上可见'成功
+2019-04-29 15:30:40 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击“写信”按钮'成功
+2019-04-29 15:30:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入收件人地址'成功
+2019-04-29 15:30:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入邮件主题'成功
+2019-04-29 15:30:41 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击“上传附件”链接'成功
+2019-04-29 15:30:44 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入附件所在绝对路径'成功
+2019-04-29 15:30:44 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'模拟键盘回车键'成功
+2019-04-29 15:30:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'显示等待附件上传完成'成功
+2019-04-29 15:30:51 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'如果邮件正文的frame框是否可见，切换进该frame中'成功
+2019-04-29 15:30:52 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'输入邮件正文'成功
+2019-04-29 15:30:52 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'退出邮件正文的frame'成功
+2019-04-29 15:30:52 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'点击邮件发送按钮'成功
+2019-04-29 15:30:55 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'等待邮件发送成功，返回结果'成功
+2019-04-29 15:30:55 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'断言页面源码中是否出现“发送成功”关键内容'成功
+2019-04-29 15:30:59 TestSendMainAndCrateContacts.py[line:107] INFO 执行步骤'关闭浏览器'成功
+2019-04-29 15:30:59 TestSendMainAndCrateContacts.py[line:111] INFO 用例'发送带附件的邮件'执行通过
+2019-04-29 15:30:59 TestSendMainAndCrateContacts.py[line:121] INFO 共3条用例，3条需要被执行，成功执行2条
